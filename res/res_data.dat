@@ -1,0 +1,12 @@
+imgs:
+// tile_data
+1 tiles/00.png
+2 tiles/01.png
+// button_data
+3 buttons/button_up.png
+-
+fonts:
+// font_data
+1 fonts/Anonymous.ttf
+-
+end
